@@ -1,2 +1,4 @@
 node_modules/
 test/fixture/build/
+
+.DS_Store
