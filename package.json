@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-puppeteer",
+  "description": "A metalsmith plugin to to use puppeteer.",
+  "repository": "git://github.com/jorrite/metalsmith-puppeteer.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "devDependencies": {
+    "assert-dir-equal": "^1.1.0",
+    "handlebars": "^4.0.10",
+    "metalsmith": "^2.3.0",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "debug": "^3.0.1",
+    "http": "0.0.0",
+    "puppeteer": "^0.10.2"
+  }
+}
