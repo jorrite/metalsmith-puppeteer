@@ -1,4 +1,5 @@
-// we would like you to use debug
+require("babel-polyfill");
+
 const debug       = require('debug')('metalsmith-puppeteer');
 const http        = require('http');
 const puppeteer   = require('puppeteer');
