@@ -27,5 +27,8 @@
     "http": "0.0.0",
     "multimatch": "^2.1.0",
     "puppeteer": "^0.10.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
