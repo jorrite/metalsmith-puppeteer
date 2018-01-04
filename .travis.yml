@@ -19,7 +19,6 @@ jobs:
           secure: uwU7eCAvQPa+4rReV0xIgSjfWspT3vuXUCQyMRVm2QYJPYoB1dRzVdNrH0jFXiPJTpOQFaF66/OP6D1ozJ5rvLgXKj/cOcFvM8FRmmX9JePvivvyn+ZX0h94VE9VEjsSCN8/QYbqigDNwRWZHOjtaAz9D/aCVqhKsSqJpF1lMKsWjfaI/PBveXi3xiBdMrQ/C/4D6wvj2pddXphC7K9DSHw648Q6MBcGBk67V+P3SuFur+7MLIj0jppZfoE1FrrllsF4h9RHTyT+Rmu2fzL4yY9XJYBHSZegGBafv/3huqPdOXHhd3wvdhxICWink2ICiwJOsQiU4hlaEBRt7RBNB/G+UrynwWgY1/Rt0mrip9//H33W5kKzoFcx3WeYmmktvuPe4p1Vz3cQuNC07OHk6AvtTpTkiFJPaDiy68OlKv8f9LGnuszSZkLPlcnkihweaQfMdJTRJpnyPGhGzwaSis4SPkX/+sFDSBIxus3Y06QaZpZdJxGAmjQOomaOKdQBnd5OOcgH2AnbiF4RIiUvjfRDgmlxJxvJAWLTEHjCYQBYRPUQhD2G7PQMYNEsaCZZQTp4eef+geQ8ZQ/WcO8iExF0HMkJMDZFkyQFXvNrrvNFm5MK2guJTg5uN+cKsFigOV/jk8VxtQqWn0bBr3Cnb/ervCwCvXD5N38e4pwwcPk=  
         skip_cleanup: true
         on:
-          all_branches: true
-          # branch: production
+          branch: production
     
 
