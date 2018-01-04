@@ -2,7 +2,7 @@
   "name": "metalsmith-puppeteer",
   "description": "A metalsmith plugin to to use puppeteer.",
   "repository": "git://github.com/jorrite/metalsmith-puppeteer.git",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "mocha": "^4.1.0"
   },
   "dependencies": {
+    "async": "^2.6.0",
     "babel-polyfill": "^6.26.0",
     "debug": "^3.0.1",
     "http": "0.0.0",
