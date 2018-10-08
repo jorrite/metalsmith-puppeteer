@@ -24,7 +24,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "babel-polyfill": "^6.26.0",
-    "debug": "^3.0.1",
+    "debug": "^4.1.0",
     "http": "0.0.0",
     "multimatch": "^2.1.0",
     "puppeteer": "^0.13.0"
