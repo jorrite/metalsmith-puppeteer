@@ -26,7 +26,7 @@
     "babel-polyfill": "^6.26.0",
     "debug": "^3.0.1",
     "http": "0.0.0",
-    "multimatch": "^2.1.0",
+    "multimatch": "^3.0.0",
     "puppeteer": "^0.13.0"
   },
   "publishConfig": {
