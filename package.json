@@ -19,7 +19,7 @@
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-markdown": "^0.2.1",
-    "mocha": "^4.1.0"
+    "mocha": "^7.0.1"
   },
   "dependencies": {
     "async": "^2.6.0",
