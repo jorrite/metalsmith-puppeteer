@@ -22,7 +22,7 @@
     "mocha": "^4.1.0"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.0",
     "babel-polyfill": "^6.26.0",
     "debug": "^3.0.1",
     "http": "0.0.0",
