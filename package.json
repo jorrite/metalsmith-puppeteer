@@ -27,7 +27,7 @@
     "debug": "^3.0.1",
     "http": "0.0.0",
     "multimatch": "^2.1.0",
-    "puppeteer": "^0.13.0"
+    "puppeteer": "^3.0.3"
   },
   "publishConfig": {
     "access": "public"
